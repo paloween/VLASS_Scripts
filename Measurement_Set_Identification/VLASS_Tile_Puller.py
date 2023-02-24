@@ -99,3 +99,4 @@ for tile in data:
                         pass
                     
 print("\nThe unique measurement sets required are:")                    
+unique(measurement_set_list)
